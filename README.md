@@ -1,5 +1,5 @@
 # MetricImperial
-To save Metric kids like me who lives in an Imperial world, or Imperial kids who need to by Metric products.
+To save Metric kids like me who lives in an Imperial world, or Imperial kids who need to work with Metric system.
 
 * You will need to have Python 3 installed.
 * .py file is for Mac and others.
