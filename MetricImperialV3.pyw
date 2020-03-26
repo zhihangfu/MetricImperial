@@ -225,9 +225,9 @@ lbl6.grid(column = 3, row = 3, sticky = "w", padx = p, pady = p)
 b1 = Button(window, text = "Clear", command = clear)
 b1.grid(column = 0, row = 4, padx = p, pady = p)
 
-# instruction
-# lbl4 = Label(window, text = "type&enter", font = (font, fsize))
-# lbl4.grid(column = 0, row = 4, sticky = "w")
+# version number
+ver = Label(window, text = "(Version 3.0)", font = (font, fsize-3))
+ver.grid(column = 1, row = 4, sticky = "w", padx = p, pady = p)
 
 # runtime!!
 txt1.bind("<Return>", u1Update)
