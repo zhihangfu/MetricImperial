@@ -187,7 +187,7 @@ def pitchUpdate(event):
 	else: pass
 
 window = Tk()
-window.title("Metric-Imperial")
+window.title("Metric⥊Imperial")
 window.geometry(wsize)
 
 # millimeter entry
