@@ -18,3 +18,6 @@ Version 3:
 3. added “clear” button
 4. fixed bug that “pitch” input cannot be “0"
 5. UI updates
+
+Version 3.1
+1. Element sizes adaptive to windows size
