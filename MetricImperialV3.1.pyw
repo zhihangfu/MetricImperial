@@ -14,7 +14,7 @@ from sys import platform
 if platform == "win32":
 	font = "Arial"
 	fsize = 10
-	wsize = '270x150'
+	wsize = '290x150'
 	bWidth = 2
 	p = 3  #padding of cells
 else: 
