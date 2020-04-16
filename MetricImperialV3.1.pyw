@@ -14,13 +14,13 @@ from sys import platform
 if platform == "win32":
 	font = "Arial"
 	fsize = 10
-	wsize = '290x150'
+	wsize = '300x135'
 	bWidth = 2
 	p = 3  #padding of cells
 else: 
-	font = "Futura"
+	font = "Helvetic Neue"
 	fsize = 14
-	wsize = '280x135'
+	wsize = '300x135'
 	bWidth = 0.5
 	p = 0  #padding of cells
 
@@ -83,9 +83,10 @@ def u3u2(u3):
 
 	i = u3[1]
 	if i == '': i = 0
-	else: i = round(convert_to_float(u3[1]), 2)
+	else: i = convert_to_float(u3[1])
 
 	u2 = f*12 + i
+	u2 = round(u2,2)
 
 	return u2
 
