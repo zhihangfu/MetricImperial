@@ -14,7 +14,7 @@ Version 2:
 1. added a new line of units: pitch & pixel for assessing screen products. 
 
 Version 3:
-1. now you can use python expressions in Entry Boxes to do simple calculations!!
+1. now you can use python expressions in Entry Boxes to do basic calculations!!
 2. disabled input into “pixel”
 3. added “clear” button
 4. fixed bug that “pitch” input cannot be “0"
