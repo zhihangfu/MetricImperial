@@ -4,6 +4,7 @@ To save Metric kids like me who lives in an Imperial world, or Imperial kids who
 * You will need to have Python 3 installed.
 * Run .py file in Mac OS.
 * Run .pyw file in Windows.
+* .py and .pyw files only differ in file extensions, not in actual codes, changing extensions won't break the app.
 * Unzip, double-click to run. Enjoy!
 
 UI may look awkward on platforms other than Mac OS and Windows, for I have not tested on such platforms.
