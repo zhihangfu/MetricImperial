@@ -22,3 +22,5 @@ Version 3:
 
 Version 3.1
 1. Element sizes adaptive to windows size
+
+![](/ScreenshotMacV3.1.png)
