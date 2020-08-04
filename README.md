@@ -1,4 +1,4 @@
-# MetricImperial
+# Metric & Imperial Length Units Conversion Tool
 To save Metric kids like me who lives in an Imperial world, or Imperial kids who need to work with Metric system.
 
 * You will need to have Python 3 installed.
