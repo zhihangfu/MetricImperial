@@ -3,11 +3,11 @@ To save Metric kids like me who lives in an Imperial world, or Imperial kids who
 
 * You will need to have Python 3 installed.
 * Run .py file in Mac OS.
-* Run .pyw file in Windows.
+* Change file extension to .pyw on Windows platform. This will tell Python on Windows to run without invoking the command prompt.
 * .py and .pyw files only differ in file extensions, not in actual codes, changing extensions won't break the app.
 * Unzip, double-click to run. Enjoy!
 
-UI may look awkward on platforms other than Mac OS and Windows, for I have not tested on such platforms.
+UI may look awkward on platforms other than Mac OS or Windows, for I have not tested on such platforms.
 Let me know if there are any issues, I'd be happy to debug.
 
 Version 2:
