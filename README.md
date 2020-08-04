@@ -10,7 +10,7 @@ Caveats:
 * UI may look awkward on platforms other than Mac OS or Windows, for I have not tested on such platforms.
 * Let me know if there are any issues, I'd be happy to debug.
 
-![](/ScreenshotMacV3.1.png)
+![](/ScreenshotV3.1.png)
 
 ## Version Logs
 ### Version 1:
