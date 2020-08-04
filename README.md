@@ -10,6 +10,10 @@ Caveats:
 * UI may look awkward on platforms other than Mac OS or Windows, for I have not tested on such platforms.
 * Let me know if there are any issues, I'd be happy to debug.
 
+![](/ScreenshotMacV3.1.png)
+
+---
+## Version Logs
 Version 1:
 1. initial version. Units include mm, inch, feet&inch.
 
@@ -26,4 +30,4 @@ Version 3:
 Version 3.1
 1. Element sizes adaptive to windows size
 
-![](/ScreenshotMacV3.1.png)
+
