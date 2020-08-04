@@ -5,7 +5,7 @@ To save Metric kids like me who lives in an Imperial world, or Imperial kids who
 * Run .py file in Mac OS.
 * Change file extension to .pyw on Windows platform. This will tell Python on Windows to run without invoking the command prompt.
 * .py and .pyw files only differ in file extensions, not in actual codes, changing extensions won't break the app.
-* Unzip, double-click to run. Enjoy!
+* Unzip, double-click, and enjoy!
 
 Caveats:
 * The GUI depends on [Tkinter](https://docs.python.org/3/library/tkinter.html), which ships with Python 3, but may not work normal in virtual Python environments (such as anaconda and pyenv).
