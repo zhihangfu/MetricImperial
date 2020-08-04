@@ -12,22 +12,21 @@ Caveats:
 
 ![](/ScreenshotMacV3.1.png)
 
----
 ## Version Logs
-Version 1:
+### Version 1:
 1. initial version. Units include mm, inch, feet&inch.
 
-Version 2:
+### Version 2:
 1. added a new line of units: pitch & pixel for assessing screen products. 
 
-Version 3:
+### Version 3:
 1. now you can use python expressions in Entry Boxes to do basic calculations!!
 2. disabled input into “pixel”, for it's driven by resolution, not the other way around.
 3. added “clear” button, which will delete all lingering numbers.
 4. fixed bug that “pitch” input cannot be “0".
 5. UI updates.
 
-Version 3.1
+### Version 3.1
 1. Element sizes adaptive to windows size
 
 
