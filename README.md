@@ -6,10 +6,11 @@ To save Metric kids like me who lives in an Imperial world, or Imperial kids who
 * Change file extension to .pyw on Windows platform. This will tell Python on Windows to run without invoking the command prompt.
 * .py and .pyw files only differ in file extensions, not in actual codes, changing extensions won't break the app.
 * Unzip, double-click to run. Enjoy!
-* The GUI depends on [Tkinter](https://docs.python.org/3/library/tkinter.html), which ships with Python 3, but may not work normal in virtual Python environments (such as anaconda and pyenv).
 
-UI may look awkward on platforms other than Mac OS or Windows, for I have not tested on such platforms.
-Let me know if there are any issues, I'd be happy to debug.
+Caveats:
+* The GUI depends on [Tkinter](https://docs.python.org/3/library/tkinter.html), which ships with Python 3, but may not work normal in virtual Python environments (such as anaconda and pyenv).
+* UI may look awkward on platforms other than Mac OS or Windows, for I have not tested on such platforms.
+* Let me know if there are any issues, I'd be happy to debug.
 
 Version 1:
 1. initial version. Units include mm, inch, feet&inch.
