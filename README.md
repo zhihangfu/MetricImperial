@@ -1,8 +1,8 @@
 # Metric & Imperial Length Units Conversion Tool
-To save Metric kids like me who lives in an Imperial world, or Imperial kids who need to work with Metric system.
+To save Metric kids like me who lives in the Imperial world (by which I only mean the US), or Imperial kids who need to work with the Metric system (good for you), I'm happy to share this app which will help you convert between these units fast while being visually informed. This app is intended to be lightweight and just do this task well. It only depends on packages that are already shipped with Python 3. 
 
-* You will need to have Python 3 installed.
-* Run .py file in Mac OS. Change file extension to .pyw on Windows platform; this will tell Python on Windows to run without invoking the command prompt.
+* You will need to have Python 3 installed on your computer.
+* It's recommended to change the file extension from *.py* to *.pyw* on Windows; this will tell Python to skip invoking the command prompt.
 * Unzip, double-click, and enjoy!
 
 Caveats:
