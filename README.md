@@ -7,7 +7,7 @@ To save Metric kids like me who lives in the Imperial world -- by which I only m
 * Unzip, double-click, and enjoy!
 
 ### Caveats:
-* The GUI depends on [Tkinter](https://docs.python.org/3/library/tkinter.html), which ships with Python 3, but may not work normally in virtual Python environments (such as anaconda and pyenv).
+* The GUI depends on [Tkinter](https://docs.python.org/3/library/tkinter.html), which ships with Python 3, but may not work normally in virtual environments (such as anaconda and pyenv).
 * UI may look awkward on platforms other than Mac OS or Windows, for I have not tested on such platforms.
 * Let me know if there are any issues, I'd be happy to debug.
 
