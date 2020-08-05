@@ -3,7 +3,7 @@ To save Metric kids like me who lives in the Imperial world -- by which I only m
 
 ### How to use?
 * You will need to have [Python 3](https://www.python.org/downloads/) installed on your computer.
-* If you are using Windows, it's recommended to change the file extension from *.py* to *.pyw*; this will tell Python to skip invoking the command prompt.
+* If you are using Windows, it's recommended to change the script file extension from *.py* to *.pyw*; this will tell Python to skip invoking the command prompt.
 * Unzip, double-click, and enjoy!
 
 ### Caveats:
